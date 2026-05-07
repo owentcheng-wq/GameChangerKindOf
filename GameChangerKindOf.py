@@ -59,6 +59,9 @@ def Foul():
     if Strikes < 2:
         Strikes = Strikes + 1
     print("Foul!")
+def bases
+    global base1, base2, base3, base4
+    BaseRunners = input("How far did the runner go?(single, double, triple, home run)")
 def PlayersNamesH():
     global FirstBaseH, SecondBaseH, ThirdBaseH, PitcherH, ShortStopH, CenterFieldH, RightFieldH, LeftFieldH
     place = input("Please enter a place on the field (first base, second base, etc.)")
